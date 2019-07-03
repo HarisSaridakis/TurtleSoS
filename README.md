@@ -1,4 +1,4 @@
-<h1> Description </h1>
+<h2> Description </h2>
 
 <p>
   “TurtleSoS”  developed to be an  educational  game  for  kids  were  can  learn  that  garbage  is
@@ -12,13 +12,13 @@ wide touch screen.
   
   </p>
   
- <h1> Getting Started </h1>
+ <h2> Getting Started </h2>
  
  <p>
  Create a new 2d project in Unity5.4.6f3 and place there the folders Assets and ProjectSettings by replacing the existing ones.
  </p>
  
-  <h1> Authors </h1>
+  <h2> Authors </h2>
   
  
   <ul>
