@@ -30,5 +30,9 @@ wide touch screen.
   <b> Emmanouella Panteri </b> emmanouella@panteri.gr
   </li>
   
+   <li>
+  <b> Aspa Panteri </b> Aspa@panteri.gr
+  </li>
+  
   </ul>
   
